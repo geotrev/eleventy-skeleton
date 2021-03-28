@@ -3,6 +3,10 @@ html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockq
 
 /* site styles */
 
+body {
+  font-family: monospace, sans-serif;
+}
+
 .content {
   padding: 1.5rem;
   max-width: 60rem;
