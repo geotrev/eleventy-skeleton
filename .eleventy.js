@@ -1,5 +1,5 @@
-module.exports = function (cfg) {
-  cfg.addPassthroughCopy("assets")
+module.exports = function (eleventyConfig) {
+  eleventyConfig.addPassthroughCopy("./assets")
 
   return {
     passthroughFileCopy: true,
