@@ -1,8 +1,5 @@
-# eleventy skeleton
+# Eleventy Skeleton
 
-no dependencies. no plugins. just make a static website.
+No dependencies. No plugins. No preprocessors. Just make a static website.
 
-## faq
-
-- question: does this boilerplate minimize the css/html/js and pre-process using sass or babel
-- answer: lol no
+Out of the box Netlify deploys.
