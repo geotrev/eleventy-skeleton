@@ -1,5 +1,7 @@
 # Eleventy Skeleton
 
+Inspired by [Possibly the Easiest Way to Run An SSG](https://css-tricks.com/possibly-the-easiest-way-to-run-an-ssg/).
+
 No dependencies. No plugins. No preprocessors. Just make a static website.
 
 Out of the box Netlify deploys. Includes mini CSS reset by Eric Meyer.
